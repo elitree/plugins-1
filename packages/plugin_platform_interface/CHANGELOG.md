@@ -1,3 +1,8 @@
+## NEXT
+
+* Minor fixes for new analysis options.
+* Adds additional tests for `PlatformInterface` and `MockPlatformInterfaceMixin`.
+
 ## 2.1.2
 
 * Updates README to demonstrate `verify` rather than `verifyToken`, and to note
